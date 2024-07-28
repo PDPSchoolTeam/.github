@@ -1,1 +1,1 @@
-# .github
+# PDP School Students for projects
