@@ -1,1 +1,1 @@
-# PDP School Students for projects
+# Projects for PDP school students
